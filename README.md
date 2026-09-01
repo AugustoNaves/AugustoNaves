@@ -17,8 +17,8 @@ Atuei de forma decisiva na conclusão da primeira etapa de um sistema real, gara
 
 **O que eu fiz e aprendi:**
 * **Engenharia de Frontend:** Estruturei a responsividade do sistema utilizando React, Styled-Components e hooks customizados para adaptar o layout a diferentes dimensões dinamicamente.
-* **DevOps e Automação:** Configurei o fluxo de CI/CD, onde o merge em branches específicas aciona automaticamente o build e o deploy do sistema em uma VPS.
-* **Regras de Negócio e UX:** Implementei o sistema de internacionalização (i18n) e estruturei a exibição de termos de responsabilidade e políticas da empresa.
+* **Versionamento e Fluxo de Entrega:** Utilizei Git Flow para organizar o versionamento de código, atuando na prática com merges em branches específicas para integrar o trabalho à esteira de CI/CD e acionar o deploy na VPS.
+* **Manutenção e Regras de Negócio**: Adaptei-me à base de código do projeto para operar o sistema de internacionalização (i18n) e colaborei na integração e exibição dos termos de responsabilidade e políticas.
 * **Visão de Arquitetura:** Essa experiência consolidou meu entendimento prático sobre como um processo de produção bem desenhado é vital para a manutenção futura do produto.
 
 ## ⏳ Foco Atual de Estudos
